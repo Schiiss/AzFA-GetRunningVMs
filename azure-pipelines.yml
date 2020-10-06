@@ -1,8 +1,8 @@
 name: DeployAzureFunction
 variables:
-  FunctionAppName: 'ffffa'
-  AzureConnection: 'MPN'
-  ResourcegGroupName: 'RG_ffffa'
+  FunctionAppName: 'connertestcicd'
+  AzureConnection: 'Clyfar Connection'
+  ResourcegGroupName: 'connerDevOps'
 
 trigger:
   branches:
